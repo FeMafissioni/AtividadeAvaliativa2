@@ -1,0 +1,3 @@
+C:/Users/femaf/Documents/6Semestre/CodigosAA2/CodigoLeitorEscritor/cmake-build-debug/CMakeFiles/CodigoLeitorEscritor.dir
+C:/Users/femaf/Documents/6Semestre/CodigosAA2/CodigoLeitorEscritor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/femaf/Documents/6Semestre/CodigosAA2/CodigoLeitorEscritor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
